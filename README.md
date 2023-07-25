@@ -29,4 +29,5 @@ Recently there has been a spike in high cancellation rates, resulting in a loss 
 # Suggestions
 1. According to the analysis, reservation cancellation increases as the price increases thus proving the hypothesis. Introducing point base system to offer a discount to loyal customers. Partnering with credit card companies to offer special prices for their customers.
 2. Based on the chart, Resort hotels have higher cancellation rates compared to city hotels. Creating personalized holiday packages for families and tourists will help to increase the reservation.
-3. 
+3. Month of January has the highest cancellation rate. Hotels can offer discounted rates for customers.
+4. Portugal has the highest cancellation rate. Increasing the services and hospitality may increase the reservation rate.
