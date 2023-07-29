@@ -36,21 +36,14 @@ Recently there has been a spike in high cancellation rates, resulting in a loss 
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/5.png "Histogram of features")
 * Based on the bar graph, it is evident that August has both the lowest hotel room rates and the lowest cancellation rates. This suggests a strong correlation between prices and reservation cancellations.
   
-![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/7.png "Box Plot Showing Outliers")
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/8.png "Correlation")
-* The bar graph suggests a correlation between reservation cancellations and hotel prices. It shows that cancellations are more common when prices are at their highest and least common when prices are at their lowest. However, it is important to note that correlation does not necessarily imply causation.
-
-* While the graph indicates a relationship between prices and cancellations, it does not conclusively prove that hotel prices are the sole factor responsible for reservation cancellations. Other factors, such as travel plans changing, personal circumstances, or even the availability of alternatives, may also play a role in reservation cancellations.
-
-* To establish a more definitive conclusion and identify the primary drivers behind reservation cancellations, further analysis and investigation are needed, taking into account additional variables and potential influencing factors.
+* The line graph demonstrates a clear relationship between the average daily rate and reservation cancellations. It indicates that as the average daily rate increases, the cancellation rate for the hotel also tends to rise.
 
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/6.png "Histogram of features")
 * According to the pie chart, Portugal has the highest proportion of hotel reservation cancellations.
 
-
-
 # Suggestions
-1. According to the analysis, reservation cancellation increases as the price increases thus proving the hypothesis. Introducing point base system to offer a discount to loyal customers. Partnering with credit card companies to offer special prices for their customers.
-2. Based on the chart, Resort hotels have higher cancellation rates compared to city hotels. Creating personalized holiday packages for families and tourists will help to increase the reservation.
-3. Month of January has the highest cancellation rate. Hotels can offer discounted rates for customers.
-4. Portugal has the highest cancellation rate. Increasing the services and hospitality may increase the reservation rate.
+1. Analysis reveals a direct relationship between reservation cancellations and price, thus confirming the hypothesis. To promote customer loyalty, consider implementing a point-based system that offers discounts to frequent guests. Additionally, explore partnerships with credit card companies to provide exclusive prices to their customers.
+2. The chart indicates that Resort hotels experience higher cancellation rates compared to city hotels. To boost reservations, consider designing tailored holiday packages for families and tourists, catering to their specific preferences and needs.
+3. January exhibits the highest cancellation rate. To address this issue, hotels could introduce discounted rates during this month to incentivize bookings and reduce cancellations.
+4. Portugal demonstrates the highest cancellation rate. Enhancing services and hospitality levels may prove instrumental in increasing the reservation rate and reducing cancellations in the country.
