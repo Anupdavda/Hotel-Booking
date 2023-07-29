@@ -29,6 +29,8 @@ Recently there has been a spike in high cancellation rates, resulting in a loss 
 * Based on the grouped bar graph analysis, it is evident that the month of August has the highest number of reservations, while the month of January experiences the highest number of cancellations. Conversely, the month of August records the lowest number of canceled reservations.
   
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/5.png "Histogram of features")
+![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/7.png "Box Plot Showing Outliers")
+![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/8.png "Correlation")
 * The bar graph suggests a correlation between reservation cancellations and hotel prices. It shows that cancellations are more common when prices are at their highest and least common when prices are at their lowest. However, it is important to note that correlation does not necessarily imply causation.
 
 * While the graph indicates a relationship between prices and cancellations, it does not conclusively prove that hotel prices are the sole factor responsible for reservation cancellations. Other factors, such as travel plans changing, personal circumstances, or even the availability of alternatives, may also play a role in reservation cancellations.
@@ -36,8 +38,7 @@ Recently there has been a spike in high cancellation rates, resulting in a loss 
 * To establish a more definitive conclusion and identify the primary drivers behind reservation cancellations, further analysis and investigation are needed, taking into account additional variables and potential influencing factors.
 
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/6.png "Histogram of features")
-![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/7.png "Box Plot Showing Outliers")
-![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/8.png "Correlation")
+
 
 
 # Suggestions
