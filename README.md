@@ -17,6 +17,7 @@ Recently there has been a spike in high cancellation rates, resulting in a loss 
 # EDA
 
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/1.png "Histogram of features")
+* A greater number of reservations remain unaffected in comparison to the ones that have been canceled. The cancellation rate stands at 37%, a noteworthy factor impacting revenue. Further investigation is necessary to determine the underlying reasons behind these cancellations.
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/2.png "Histogram of features")
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/3.png "Box Plot Showing Outliers")
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/4.png "Correlation")
