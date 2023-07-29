@@ -45,6 +45,7 @@ Recently there has been a spike in high cancellation rates, resulting in a loss 
 * To establish a more definitive conclusion and identify the primary drivers behind reservation cancellations, further analysis and investigation are needed, taking into account additional variables and potential influencing factors.
 
 ![alt text](https://github.com/Anupdavda/Hotel-Booking/blob/470ac63db146b4436331e8f15333e126e60c3818/graphs/6.png "Histogram of features")
+* According to the pie chart, Portugal has the highest proportion of hotel reservation cancellations.
 
 
 
